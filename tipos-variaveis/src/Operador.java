@@ -1,4 +1,4 @@
-public class TiposVariaveis {
+public class Operador {
     public static void main(String[] args) throws Exception {
         int a = 9;
         int b = 5;
